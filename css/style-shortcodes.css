@@ -1,0 +1,38 @@
+.one_full     {width: 100%;}
+.one_half     {width: 48.7%; }
+.one_third    {width: 31.6%; }
+.two_third    {width: 65.8%; }
+.one_fourth   {width: 23.05%; }
+.three_fourth {width: 74.35%; }
+.one_fifth    {width: 17.92%; }
+.two_fifth    {width: 38.44%; }
+.three_fifth  {width: 58.96%; }
+.four_fifth   {width: 79.48%; }
+.one_sixth    {width: 14.5%; }
+.five_sixth   {width: 82.9%; }
+.last         {clear: right; margin-right: 0 !important; }
+
+.one_half,
+.one_third,
+.one_third1,
+.two_third,
+.one_fourth,
+.three_fourth,
+.one_fifth,
+.two_fifth,
+.three_fifth,
+.four_fifth,
+.one_sixth,
+.five_sixth {
+	margin-right: 2.6%;
+	position: relative;
+	float: left;
+    min-height: 1px;
+}
+
+.one_full{
+    position: relative;
+    float: left;
+    min-height: 1px;
+
+}

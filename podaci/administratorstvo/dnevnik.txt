@@ -1,0 +1,843 @@
+2015-01-10 17-11-41.000000 - neregistrirani korisnik -> Ugostitelj Pizzeria Davidenko (id: 119) registriran.
+2015-01-10 17-21-55.393501 - neregistrirani korisnik -> Ugostitelj Davidovi ćevapi (id: 120) registriran.
+2015-01-10 17-55-40.748333 - 120 -> Prijava korisnika Davidovi (id: 120) uspjela.
+2015-01-10 18-01-31.547792 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-10 18-02-17.746818 - neprijavljeni korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-10 18-02-26.704586 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-10 18-02-38.410743 - neprijavljeni korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-10 18-02-43.818340 - 120 -> Prijava korisnika Davidovi (id: 120) uspjela.
+2015-01-10 18-02-43.927915 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-10 18-02-47.570874 - neprijavljeni korisnik -> Korisnik Davidovi (id: 120) uspiješno odjavljen.
+2015-01-10 18-09-43.193403 - neprijavljeni korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-10 18-15-31.503880 - neprijavljeni korisnik -> Ugostitelj Nikita (id: 121) registriran.
+2015-01-10 18-15-31.505727 - 121 -> Prijava korisnika nikajukic (id: 121) uspjela.
+2015-01-10 18-25-24.855314 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-10 18-34-22.663631 - 121 -> Konobar konobar1 (id: 122) registriran.
+2015-01-10 18-34-36.762773 - neprijavljeni korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-10 18-34-42.441263 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-10 18-35-03.959897 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-35-21.839591 - 121 -> Konobar konobar2 (id: 123) registriran.
+2015-01-10 18-35-26.972291 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-35-47.217052 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-37-15.396058 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-37-29.394558 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-37-43.621531 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-38-32.909460 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-39-05.891109 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-39-59.805582 - neprijavljeni korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-10 18-40-23.110745 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-10 18-41-07.188314 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-10 18-41-16.267211 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-10 18-41-52.503233 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-10 18-42-11.578537 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-45-13.150719 - neprijavljeni korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-10 18-45-17.991560 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-10 18-45-57.223318 - 71 -> Objava recenzije za ugostitelja (id: 15) uspijela.
+2015-01-10 18-46-41.187918 - neprijavljeni korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-10 18-46-57.877676 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-10 18-47-19.041748 - 119 -> Dodavanje namirnice Kruh (id namirnice: ) uspijelo.
+2015-01-10 18-47-29.726721 - 119 -> Dodavanje namirnice Jaja (id namirnice: ) uspijelo.
+2015-01-10 18-47-34.732151 - 119 -> Dodavanje namirnice Jaja nije uspijelo. Takav naziv namirnice za tog ugostitelja već postoji.
+2015-01-10 18-47-38.886326 - 119 -> Uklanjanje namirnice Jaja (id namirnice: 26) uspijelo.
+2015-01-10 18-47-42.315953 - neprijavljeni korisnik -> Ugostitelj Restoran1-Lovro (id: 124) registriran.
+2015-01-10 18-47-42.317526 - 124 -> Prijava korisnika r1-lovro (id: 124) uspjela.
+2015-01-10 18-47-43.546938 - 119 -> Dodavanje namirnice Jaja (id namirnice: ) uspijelo.
+2015-01-10 18-56-54.590246 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-57-41.471265 - 124 -> Konobar k1-lovro (id: 125) registriran.
+2015-01-10 18-57-45.747139 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 18-58-18.185501 - 124 -> Konobar k2-lovro (id: 126) registriran.
+2015-01-10 18-58-20.891010 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-02-08.572036 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-03-48.510879 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-04-34.231833 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-05-04.974176 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-05-38.891629 - 124 -> Jelo Piroške uspiješno dodano u jelovnik.
+2015-01-10 19-05-41.713140 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-08-02.947969 - 124 -> Jelo Proljetne loptice uspiješno dodano u jelovnik.
+2015-01-10 19-08-09.809952 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-09-32.844554 - 124 -> Jelo Pohani oslić uspiješno dodano u jelovnik.
+2015-01-10 19-09-35.666884 - 124 -> Ugostitelj promijenio svoje podatke.
+2015-01-10 19-10-49.887204 - 124 -> Dodavanje namirnice Meso uspijelo.
+2015-01-10 19-11-04.246505 - 124 -> Dodavanje namirnice Kruh uspijelo.
+2015-01-10 19-12-42.648811 - neprijavljeni korisnik -> Korisnik r1-lovro (id: 124) uspiješno odjavljen.
+2015-01-10 19-13-19.485655 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-10 19-14-16.426373 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-10 19-15-18.805689 - neprijavljeni korisnik -> GostLovro1 (id: 127) registriran.
+2015-01-10 19-15-31.749591 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-10 19-16-42.267438 - 127 -> Objava recenzije za ugostitelja (id: 15) uspijela. (Super).
+2015-01-10 19-17-45.649760 - 127 -> Rezervacija kod ugostitelja Tvoja mama (id: 15) uspijela.
+2015-01-10 19-19-13.532690 - 127 -> Rezervacija kod ugostitelja Restoran1-Lovro (id: 124) uspijela.
+2015-01-10 19-19-14.591777 - 127 -> Rezervacija kod ugostitelja Restoran1-Lovro (id: 124) uspijela.
+2015-01-10 19-26-03.106642 - neprijavljeni korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-10 19-26-22.167351 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-10 20-42-00.557183 - neprijavljeni korisnik -> Prijava s nadimkom nije uspjela (Korisničko ime ne postoji)
+2015-01-10 20-42-28.677408 - neprijavljeni korisnik -> Prijava s nadimkom kkk nije uspjela (Korisničko ime ne postoji).
+2015-01-10 20-42-34.320468 - neprijavljeni korisnik -> Prijava s nadimkom Davidenko nije uspjela (Neispravna šifra).
+2015-01-10 21-19-47.756633 - neprijavljeni korisnik -> Prijava s nadimkom davidenko nije uspjela (Neispravna šifra).
+2015-01-10 21-19-54.143731 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-10 21-31-06.903075 - neprijavljeni korisnik -> Prijava s nadimkom dsafdsfdsafdsa nije uspjela (Korisničko ime ne postoji).
+2015-01-10 21-31-24.614878 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-10 23-26-57.699913 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-10 23-55-15.960747 - 121 -> Prijava korisnika nikajukic (id: 121) uspjela.
+2015-01-10 23-56-51.192377 - 121 -> Stol 1 uspiješno dodan.
+2015-01-10 23-58-11.277028 - 121 -> Jelo zelena uspiješno dodano u jelovnik.
+2015-01-10 23-58-27.239145 - 121 -> Jelo krumpiri uspiješno dodano u jelovnik.
+2015-01-10 23-58-27.239892 - 121 -> Jelo krumpiri uspiješno dodano u ponudu jela .
+2015-01-10 23-58-38.150880 - 121 -> Jelo cola uspiješno dodano u jelovnik.
+2015-01-10 23-58-57.123792 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 00-43-05.507591 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 00-43-12.447911 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 00-43-15.882165 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 02-06-03.845755 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-11 02-54-54.589093 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-11 02-55-01.011975 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-11 10-34-19.224893 - neprijavljeni korisnik -> Prijava s nadimkom nikajukic nije uspjela (Neispravna šifra).
+2015-01-11 10-35-12.267230 - 121 -> Prijava korisnika nikajukic (id: 121) uspjela.
+2015-01-11 10-36-03.243382 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 10-36-24.542002 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 12-02-55.969186 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-11 12-03-04.186538 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-11 12-03-09.771748 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-11 12-13-36.785561 - neprijavljeni korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-11 12-13-41.439465 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 12-58-49.986229 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-11 12-59-05.049016 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 12-59-23.359519 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 12-59-44.386264 - 119 -> Konobar Aleksandar (id: 128) registriran.
+2015-01-11 13-00-05.463154 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 13-00-22.536153 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 13-21-17.129937 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 13-21-36.456408 - 15 -> Uklanjanje namirnice s identifikatorom 15 uspijelo.
+2015-01-11 13-23-52.679445 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-11 13-24-45.646207 - 15 -> Promjena namirnice s identifikatorom 17 na vrijednost 95 uspijela.
+2015-01-11 13-24-56.945080 - 15 -> Promjena namirnice s identifikatorom 23 na vrijednost 95 uspijela.
+2015-01-11 13-25-27.175617 - 15 -> Promjena namirnice s identifikatorom 17 na vrijednost 96 uspijela.
+2015-01-11 13-25-35.038480 - 15 -> Promjena namirnice s identifikatorom 24 na vrijednost 98 uspijela.
+2015-01-11 13-25-44.617574 - 15 -> Dodavanje namirnice 32 uspijelo.
+2015-01-11 13-27-55.656569 - 15 -> Kreirana nova nabava (id nabave: 40) od strane ugostitelja.
+2015-01-11 13-27-55.657140 - 15 -> Namirnica (id: 17, količina: 1) dodana u nabavu (id nabave: 40).
+2015-01-11 13-27-55.657478 - 15 -> Namirnica (id: 23, količina: 1) dodana u nabavu (id nabave: 40).
+2015-01-11 13-27-55.658042 - 15 -> Namirnica (id: 24, količina: 1) dodana u nabavu (id nabave: 40).
+2015-01-11 13-36-51.842922 - 119 -> Kreirana nova nabava (id nabave: 41) od strane ugostitelja.
+2015-01-11 13-36-51.844311 - 119 -> Namirnica (id: 25, količina: 50) dodana u nabavu (id nabave: 41).
+2015-01-11 13-36-51.844883 - 119 -> Namirnica (id: 27, količina: 50) dodana u nabavu (id nabave: 41).
+2015-01-11 13-37-03.022376 - neprijavljeni korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-11 13-37-08.728421 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-11 14-01-42.488457 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-11 14-01-58.089262 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-11 14-06-41.058967 - neprijavljeni korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-11 14-06-47.920787 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-11 14-12-33.257342 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 14-13-52.579894 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 14-14-16.108525 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 14-22-12.383183 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 14-29-27.011451 - neprijavljeni korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-11 14-29-35.910573 - neprijavljeni korisnik -> Prijava s nadimkom Dobavljac nije uspjela (Neispravna šifra).
+2015-01-11 14-29-41.196439 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-11 14-30-01.878878 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-11 14-30-08.159452 - neprijavljeni korisnik -> Prijava s nadimkom Davidenko nije uspjela (Neispravna šifra).
+2015-01-11 14-30-15.572113 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-11 14-31-53.701685 - 119 -> Promjena namirnice s identifikatorom 25 na vrijednost 50 uspijela.
+2015-01-11 14-34-47.887305 - neprijavljeni korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-11 14-35-28.943881 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-11 14-37-02.886990 - neprijavljeni korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-11 14-37-09.852763 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 14-43-21.029624 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-11 14-43-24.204435 - neprijavljeni korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-11 14-43-36.596782 - 0 -> Dobavljač odbio nabavu (id nabave: 36).
+2015-01-11 14-44-09.626909 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-11 14-44-13.195631 - neprijavljeni korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-11 14-44-14.745482 - 0 -> Dobavljač prihvatio nabavu (id nabave: 38).
+2015-01-11 14-46-02.548651 - neprijavljeni korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-11 14-46-08.970468 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 14-53-45.347543 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-11 14-53-49.353735 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 15-01-23.840795 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-11 15-01-29.098495 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 15-09-08.996150 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-11 15-09-12.617868 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-11 15-09-25.018405 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-09-34.555845 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-12-08.925205 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-13-01.290846 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-18-17.309415 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-11 15-18-19.652209 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-11 15-20-04.571597 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-20-22.339560 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-21-14.762043 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-25-00.796395 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-27-44.513017 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-28-29.196752 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-29-19.775074 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-35-17.119849 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-35-50.982502 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-11 15-49-55.828912 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 03-05-21.776581 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 03-06-45.735435 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 03-11-46.946077 - 108 -> Ugostitelj  (id: 78) odobren od admina.
+2015-01-12 03-11-48.533127 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 03-14-39.230154 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 03-27-36.025914 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 03-34-36.044374 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 03-39-12.723407 - 108 -> Ugostitelj  (id: 119) odobren od admina.
+2015-01-12 03-39-16.069451 - 108 -> Ugostitelj  (id: 79) odobren od admina.
+2015-01-12 03-40-03.002464 - 108 -> Ugostitelj  (id: 79) izbrisan.
+2015-01-12 03-47-22.760659 - 108 -> Ugostitelj  (id: 118) odobren od admina.
+2015-01-12 03-47-32.216129 - 108 -> Ugostitelj  (id: 78) izbrisan.
+2015-01-12 04-04-14.480376 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 04-06-55.517879 - 139 -> Prijava korisnika 1 (id: 139) uspjela.
+2015-01-12 04-06-59.191865 - neregistrirani korisnik -> Korisnik 1 (id: 139) uspiješno odjavljen.
+2015-01-12 04-07-06.193638 - neregistrirani korisnik -> Ugostitelj nije uspiješno registriran. Neispravan unos podataka.
+2015-01-12 04-07-12.158679 - neregistrirani korisnik -> Ugostitelj 4 (id: 140) registriran.
+2015-01-12 04-07-12.159888 - 140 -> Prijava korisnika 2 (id: 140) uspjela.
+2015-01-12 04-07-22.825247 - neregistrirani korisnik -> Korisnik 2 (id: 140) uspiješno odjavljen.
+2015-01-12 12-34-09.395724 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 12-34-18.812872 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 12-34-24.629621 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-12 12-34-39.961004 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-12 12-34-44.611294 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 12-34-56.313152 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 13-17-32.327130 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 13-17-46.958600 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 13-17-52.575943 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-12 13-18-11.352462 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 13-18-31.532460 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 13-20-33.985167 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 13-20-44.566037 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 14-07-31.903543 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 14-07-57.675996 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 14-24-09.155566 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 14-24-17.770283 - 108 -> Ugostitelj  (id: 121) odobren od admina.
+2015-01-12 14-24-54.130534 - 121 -> Prijava korisnika nikajukic (id: 121) uspjela.
+2015-01-12 14-27-09.099975 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 14-27-56.931037 - neregistrirani korisnik -> Korisnik nikajukic (id: 121) uspiješno odjavljen.
+2015-01-12 14-28-03.461998 - 129 -> Prijava korisnika nikita (id: 129) uspjela.
+2015-01-12 14-38-12.393487 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 14-38-18.163980 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 14-46-27.774602 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 14-48-10.954854 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 14-48-30.149761 - 108 -> Ugostitelj  (id: 115) odobren od admina.
+2015-01-12 14-53-24.339382 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 14-53-40.312011 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 15-04-50.801579 - neregistrirani korisnik -> Korisnik nikita (id: 129) uspiješno odjavljen.
+2015-01-12 15-04-56.138664 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 15-06-05.863687 - 15 -> Kreirana nova nabava (id nabave: 42) od strane ugostitelja. 
+2015-01-12 15-06-05.864145 - 15 -> Namirnica (id: 7, količina: 5) dodana u nabavu (id nabave: 42).
+2015-01-12 15-06-05.864362 - 15 -> Namirnica (id: 23, količina: 4) dodana u nabavu (id nabave: 42).
+2015-01-12 15-18-42.741823 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 15-18-49.057806 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 15-58-29.127753 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 15-58-34.934463 - 121 -> Prijava korisnika nikajukic (id: 121) uspjela.
+2015-01-12 15-58-47.748116 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 15-59-19.181463 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 16-31-41.587955 - neregistrirani korisnik -> Korisnik nikajukic (id: 121) uspiješno odjavljen.
+2015-01-12 16-31-46.291469 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 16-36-44.179406 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 16-37-01.472412 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 16-38-00.701242 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 16-39-31.320734 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 16-39-36.436485 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 16-41-16.649286 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 16-41-20.797002 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 16-43-13.773722 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 16-43-37.386233 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 17-02-59.405680 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 17-03-03.776849 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 17-11-35.644937 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 17-11-40.075917 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 17-27-13.394679 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 17-27-19.795140 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 17-27-35.320065 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 17-27-39.302289 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 17-27-54.935820 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 17-28-01.460201 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 17-29-02.086370 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 17-29-08.984117 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 17-29-18.744904 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 17-29-23.876097 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 17-29-56.108870 - 124 -> Prijava korisnika r1-lovro (id: 124) uspjela.
+2015-01-12 17-30-54.889827 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 17-30-59.470803 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 17-31-30.697134 - neregistrirani korisnik -> Korisnik r1-lovro (id: 124) uspiješno odjavljen.
+2015-01-12 17-31-41.908592 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-12 17-31-48.078139 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-12 17-32-12.410542 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 17-32-17.648439 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 17-33-22.805623 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 17-33-29.078629 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 17-41-49.506967 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 17-41-55.765645 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 17-42-13.121011 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 17-42-25.067548 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-12 17-42-35.766846 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-12 17-50-38.079344 - neregistrirani korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-12 17-57-53.822170 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 18-04-08.607800 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 18-04-46.579982 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 18-05-28.907073 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 18-08-43.748040 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 18-08-53.284203 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 18-08-57.594253 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 18-09-09.052934 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 18-09-16.927333 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 18-09-52.711486 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 18-09-57.228199 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 18-30-03.897309 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 18-30-10.162446 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 18-31-32.904788 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 18-31-37.616635 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 18-40-40.004558 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 18-40-46.524244 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 18-41-48.757546 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 18-41-53.825489 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 19-28-58.327949 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 19-29-19.473817 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 19-29-24.550054 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 19-35-01.808083 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 19-40-41.441109 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 20-04-30.625468 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 20-04-41.427150 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 20-04-46.432940 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 20-05-30.191658 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 20-10-17.411463 - neregistrirani korisnik -> Prijava s nadimkom root nije uspjela (Korisničko ime ne postoji).
+2015-01-12 20-26-25.125910 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 20-26-29.751399 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 20-30-28.976789 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 20-30-33.780601 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 20-31-28.939172 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 20-33-27.186093 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 20-33-30.180067 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 20-33-32.599405 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 20-33-52.367304 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 20-34-10.972647 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 20-34-16.692007 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 20-46-24.884248 - neregistrirani korisnik -> Prijava s nadimkom root nije uspjela (Korisničko ime ne postoji).
+2015-01-12 20-46-25.651829 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 20-46-30.696006 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 20-47-02.883264 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 20-47-09.445931 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 20-47-54.534959 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-12 20-48-28.733930 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-12 21-35-37.940604 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-12 21-35-44.746556 - neregistrirani korisnik -> Prijava s nadimkom ugostitelj nije uspjela (Korisničko ime ne postoji).
+2015-01-12 21-35-53.489741 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 21-49-54.795751 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 21-54-48.270530 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 22-08-48.643178 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 22-08-53.195715 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 22-09-44.765629 - 15 -> Promjena namirnice s identifikatorom 30 na vrijednost 32 uspijela.
+2015-01-12 22-19-42.634884 - 124 -> Prijava korisnika r1-lovro (id: 124) uspjela.
+2015-01-12 22-20-13.414123 - neregistrirani korisnik -> Korisnik r1-lovro (id: 124) uspiješno odjavljen.
+2015-01-12 22-20-28.266931 - 125 -> Prijava korisnika k1-lovro (id: 125) uspjela.
+2015-01-12 22-21-01.423669 - neregistrirani korisnik -> Korisnik k1-lovro (id: 125) uspiješno odjavljen.
+2015-01-12 22-21-15.795208 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-12 22-29-55.854000 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-12 22-33-24.051520 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 22-33-48.540522 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-12 22-34-12.761569 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-12 22-38-48.455410 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 22-38-52.560185 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 23-03-21.977231 - neregistrirani korisnik -> Prijava s nadimkom mato nije uspjela (Korisničko ime ne postoji).
+2015-01-12 23-03-28.342629 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-12 23-19-46.164165 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-12 23-23-11.211410 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-12 23-47-37.442238 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-12 23-59-10.921739 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-12 23-59-15.883922 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-13 00-02-03.753474 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-13 00-02-13.763459 - neregistrirani korisnik -> Prijava s nadimkom ugostitelj nije uspjela (Korisničko ime ne postoji).
+2015-01-13 00-02-29.613389 - neregistrirani korisnik -> Prijava s nadimkom ugostitelj nije uspjela (Korisničko ime ne postoji).
+2015-01-13 00-02-56.738960 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 00-05-02.657140 - 15 -> Kreirana nova nabava (id nabave: 43) od strane ugostitelja. 
+2015-01-13 00-05-02.657975 - 15 -> Namirnica (id: 7, količina: 2) dodana u nabavu (id nabave: 43).
+2015-01-13 00-07-11.214648 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-13 00-07-15.680772 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 00-09-46.636512 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 00-09-59.130986 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 00-10-07.247188 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-13 00-10-35.991103 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-13 00-10-44.362643 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 00-11-41.684015 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 00-11-50.210211 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-13 00-12-13.180433 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-13 00-12-24.159219 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-13 00-12-34.550035 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 00-15-41.806912 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-13 00-15-52.705658 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-13 00-16-03.357342 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 00-16-36.965579 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 00-38-40.380424 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 00-44-10.334438 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 03-00-13.596648 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 03-52-20.309843 - 124 -> Prijava korisnika r1-lovro (id: 124) uspjela.
+2015-01-13 03-52-53.982300 - neregistrirani korisnik -> Korisnik r1-lovro (id: 124) uspiješno odjavljen.
+2015-01-13 12-41-02.455897 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-13 12-49-39.017587 - neregistrirani korisnik -> Ugostitelj Zmajevo gnijezdo (id: 141) registriran.
+2015-01-13 12-49-39.018863 - 141 -> Prijava korisnika zmaj (id: 141) uspjela.
+2015-01-13 12-53-19.131063 - neregistrirani korisnik -> Korisnik zmaj (id: 141) uspiješno odjavljen.
+2015-01-13 12-53-25.839478 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-13 12-53-36.346245 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-13 12-53-57.222182 - 141 -> Prijava korisnika zmaj (id: 141) uspjela.
+2015-01-13 13-01-59.185235 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-03-10.945238 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-03-41.425786 - 141 -> Stol 1 uspiješno dodan.
+2015-01-13 13-03-41.958467 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-03-46.789643 - 141 -> Stol 1 uspiješno uređen
+2015-01-13 13-03-47.339323 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-03-49.396325 - 141 -> Stol 1 uspiješno uređen
+2015-01-13 13-03-49.931827 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-03-55.633344 - 141 -> Stol 11 uspiješno dodan.
+2015-01-13 13-03-56.165183 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-04-02.440231 - 141 -> Stol 17 uspiješno dodan.
+2015-01-13 13-04-02.976906 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-04-05.704433 - 141 -> Stol 12 uspiješno dodan.
+2015-01-13 13-04-06.249219 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-04-12.134160 - 141 -> Stol 43 uspiješno dodan.
+2015-01-13 13-04-12.665896 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-04-27.489480 - 141 -> Stol 39 uspiješno dodan.
+2015-01-13 13-04-28.019188 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-05-27.602585 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-06-06.013006 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-06-15.763778 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-06-19.266753 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-06-50.060482 - 141 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-07-46.275475 - neregistrirani korisnik -> Korisnik zmaj (id: 141) uspiješno odjavljen.
+2015-01-13 13-07-50.357543 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-13 13-07-52.305392 - 108 -> Ugostitelj  (id: 141) odobren od admina.
+2015-01-13 13-07-57.313118 - 108 -> Ugostitelj  (id: 124) odobren od admina.
+2015-01-13 13-08-24.140929 - 108 -> Ugostitelj  (id: 115) izbrisan.
+2015-01-13 13-08-26.219393 - 108 -> Ugostitelj  (id: 118) izbrisan.
+2015-01-13 13-08-29.545186 - 108 -> Ugostitelj  (id: 124) izbrisan.
+2015-01-13 13-27-51.017724 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-13 13-28-00.970837 - 129 -> Prijava korisnika nikita (id: 129) uspjela.
+2015-01-13 13-29-33.221410 - neregistrirani korisnik -> Korisnik nikita (id: 129) uspiješno odjavljen.
+2015-01-13 13-29-42.263164 - 121 -> Prijava korisnika nikajukic (id: 121) uspjela.
+2015-01-13 13-30-05.874047 - 121 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 13-30-29.701626 - 121 -> Stol 9 uspiješno dodan.
+2015-01-13 13-30-37.659399 - 121 -> Stol 12 uspiješno dodan.
+2015-01-13 13-30-43.696480 - 121 -> Stol 13 uspiješno dodan.
+2015-01-13 13-30-55.472172 - 121 -> Stol 2 uspiješno dodan.
+2015-01-13 13-31-02.561321 - 121 -> Stol 3 uspiješno dodan.
+2015-01-13 13-31-10.211023 - 121 -> Stol 4 uspiješno dodan.
+2015-01-13 13-34-34.241447 - neregistrirani korisnik -> Korisnik nikajukic (id: 121) uspiješno odjavljen.
+2015-01-13 13-34-40.616420 - 129 -> Prijava korisnika nikita (id: 129) uspjela.
+2015-01-13 13-39-02.793844 - neregistrirani korisnik -> Korisnik nikita (id: 129) uspiješno odjavljen.
+2015-01-13 13-39-10.356738 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-13 13-43-37.849752 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-13 13-43-46.957839 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-13 13-45-16.162383 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-13 13-45-23.985558 - 129 -> Prijava korisnika nikita (id: 129) uspjela.
+2015-01-13 13-48-08.876311 - neregistrirani korisnik -> Korisnik nikita (id: 129) uspiješno odjavljen.
+2015-01-13 13-48-17.580049 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 13-50-04.841834 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 13-50-12.910486 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-13 13-50-29.609734 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-13 13-51-46.634949 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 14-14-21.050069 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 14-31-10.038836 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 14-31-24.640814 - 15 -> Kreirana nova nabava (id nabave: 44) od strane ugostitelja. 
+2015-01-13 14-31-24.641601 - 15 -> Namirnica (id: 24, količina: 1) dodana u nabavu (id nabave: 44).
+2015-01-13 14-31-24.642218 - 15 -> Namirnica (id: 30, količina: 5) dodana u nabavu (id nabave: 44).
+2015-01-13 14-31-40.262964 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 14-31-50.767473 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-13 15-34-42.519747 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-13 15-35-00.412616 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-13 15-35-07.269393 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 15-36-05.164561 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-13 15-36-22.458447 - 119 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 15-36-35.966274 - neregistrirani korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-13 15-36-40.788211 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-13 15-37-00.041707 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 15-37-05.201443 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-13 16-54-54.053669 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 17-16-03.446198 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 17-16-08.257237 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-13 17-17-33.144454 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-13 17-18-15.113660 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-13 17-18-23.485143 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 17-18-56.133383 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 18-23-59.766757 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 18-59-34.540926 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 19-19-25.685240 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 20-12-47.724083 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-13 20-13-30.294081 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-13 20-31-20.927864 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 21-04-29.167154 - 129 -> Prijava korisnika nikita (id: 129) uspjela.
+2015-01-13 21-05-32.892091 - neregistrirani korisnik -> Korisnik nikita (id: 129) uspiješno odjavljen.
+2015-01-13 21-28-11.086955 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 21-40-22.499634 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 21-40-50.811388 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-13 21-42-00.596462 - neregistrirani korisnik -> Ugostitelj Skromni krumpir (id: 142) registriran.
+2015-01-13 21-42-00.597640 - 142 -> Prijava korisnika krumpir (id: 142) uspjela.
+2015-01-13 21-44-37.326380 - 142 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 21-45-21.708051 - 142 -> Stol 1 uspiješno dodan.
+2015-01-13 21-45-28.536160 - 142 -> Stol 2 uspiješno dodan.
+2015-01-13 21-45-33.080818 - 142 -> Stol 3 uspiješno dodan.
+2015-01-13 21-45-39.373898 - 142 -> Stol 4 uspiješno dodan.
+2015-01-13 21-45-45.570391 - 142 -> Stol 5 uspiješno dodan.
+2015-01-13 21-46-01.326425 - 142 -> Stol 6 uspiješno dodan.
+2015-01-13 21-46-05.363652 - 142 -> Stol 7 uspiješno dodan.
+2015-01-13 21-46-10.031824 - 142 -> Stol 8 uspiješno dodan.
+2015-01-13 21-46-17.175168 - 142 -> Stol 9 uspiješno dodan.
+2015-01-13 21-46-26.042202 - 142 -> Stol 10 uspiješno dodan.
+2015-01-13 21-46-31.084111 - 142 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 21-46-38.151513 - neregistrirani korisnik -> Korisnik krumpir (id: 142) uspiješno odjavljen.
+2015-01-13 21-46-46.772195 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-13 21-46-51.093251 - 108 -> Ugostitelj  (id: 142) odobren od admina.
+2015-01-13 21-46-53.974344 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-13 21-49-37.840508 - neregistrirani korisnik -> Ugostitelj Šarmer (id: 143) registriran.
+2015-01-13 21-49-37.841520 - 143 -> Prijava korisnika &#353;armer (id: 143) uspjela.
+2015-01-13 22-10-43.410511 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-13 22-23-50.638575 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-13 22-24-00.597558 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-13 22-34-40.180370 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-13 22-34-56.731071 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-13 22-37-52.155536 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-13 22-38-00.595069 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-13 22-51-27.246057 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-13 22-51-55.142433 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-13 22-55-39.087250 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-13 22-55-45.781769 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-13 23-09-29.902343 - neregistrirani korisnik -> Ugostitelj Jaja (id: 144) registriran.
+2015-01-13 23-09-29.903296 - 144 -> Prijava korisnika ja (id: 144) uspjela.
+2015-01-13 23-09-59.279849 - neregistrirani korisnik -> Korisnik ja (id: 144) uspiješno odjavljen.
+2015-01-13 23-10-14.635319 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-13 23-10-17.591689 - 108 -> Ugostitelj  (id: 144) izbrisan.
+2015-01-13 23-10-20.272640 - 108 -> Ugostitelj  (id: 143) odobren od admina.
+2015-01-13 23-10-27.781433 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-13 23-10-38.147567 - 143 -> Prijava korisnika &#353;armer (id: 143) uspjela.
+2015-01-13 23-12-37.776428 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-13-16.574840 - 143 -> Stol 1 uspiješno dodan.
+2015-01-13 23-13-17.692308 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-13-23.793349 - 143 -> Stol 2 uspiješno dodan.
+2015-01-13 23-13-24.940912 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-13-30.429097 - 143 -> Stol 3 uspiješno dodan.
+2015-01-13 23-13-31.699206 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-13-38.758713 - 143 -> Stol 4 uspiješno dodan.
+2015-01-13 23-13-39.889571 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-13-45.961636 - 143 -> Stol 5 uspiješno dodan.
+2015-01-13 23-13-47.084373 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-13-55.926342 - 143 -> Stol 6 uspiješno dodan.
+2015-01-13 23-13-56.770315 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-14-01.932878 - 143 -> Stol  uspiješno uklonjen.
+2015-01-13 23-14-03.171866 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-14-08.067044 - 143 -> Stol 6 uspiješno dodan.
+2015-01-13 23-14-09.219443 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-14-16.056018 - 143 -> Stol 7 uspiješno dodan.
+2015-01-13 23-14-17.225965 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-14-22.165493 - 143 -> Stol 8 uspiješno dodan.
+2015-01-13 23-14-23.019270 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-14-28.787823 - 143 -> Stol 9 uspiješno dodan.
+2015-01-13 23-14-29.998727 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-14-40.640290 - 143 -> Stol 10 uspiješno dodan.
+2015-01-13 23-14-41.523027 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-14-50.605532 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-25-00.032299 - 143 -> Jelo Integralna tjestenina s dimljenim tofuom uspiješno dodano u ponudu jela .
+2015-01-13 23-29-12.135966 - 143 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-29-17.815598 - neregistrirani korisnik -> Korisnik &#353;armer (id: 143) uspiješno odjavljen.
+2015-01-13 23-29-29.670640 - 142 -> Prijava korisnika krumpir (id: 142) uspjela.
+2015-01-13 23-29-41.606419 - 142 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-29-47.715950 - neregistrirani korisnik -> Korisnik krumpir (id: 142) uspiješno odjavljen.
+2015-01-13 23-31-38.292350 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-13 23-38-10.937385 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-13 23-38-19.162127 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-13 23-52-16.564059 - 15 -> Ugostitelj promijenio svoje podatke.
+2015-01-13 23-53-11.924870 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 00-04-10.654517 - 142 -> Prijava korisnika krumpir (id: 142) uspjela.
+2015-01-14 00-08-33.552653 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-14 00-10-28.651093 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-14 00-12-52.091181 - 142 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 00-13-59.810295 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-14 00-16-43.462443 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 00-17-29.178877 - 125 -> Prijava korisnika k1-lovro (id: 125) uspjela.
+2015-01-14 00-19-33.759749 - neregistrirani korisnik -> Korisnik k1-lovro (id: 125) uspiješno odjavljen.
+2015-01-14 00-30-23.236268 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 00-34-49.712784 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 00-35-00.881618 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 00-36-27.478024 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 00-43-12.046588 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 00-58-37.667686 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 00-58-49.188731 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 01-02-21.872334 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 01-02-30.816447 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-14 01-02-36.980519 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 01-04-27.303414 - 147 -> Prijava korisnika *korisni&#269;ko...ime# (id: 147) uspjela.
+2015-01-14 01-20-12.894740 - neregistrirani korisnik -> Korisnik *korisni&#269;ko...ime# (id: 147) uspiješno odjavljen.
+2015-01-14 01-21-58.920881 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 01-23-04.062674 - 15 -> Uklanjanje namirnice s identifikatorom 30 nije uspijelo.
+2015-01-14 01-23-10.984174 - 15 -> Uklanjanje namirnice s identifikatorom 30 nije uspijelo.
+2015-01-14 01-24-03.373847 - 15 -> Uklanjanje namirnice s identifikatorom 30 nije uspijelo.
+2015-01-14 01-25-03.278980 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 01-26-20.238425 - neregistrirani korisnik -> Ugostitelj Restoran (id: 148) registriran.
+2015-01-14 01-26-20.239315 - 148 -> Prijava korisnika Restoran1 (id: 148) uspjela.
+2015-01-14 01-26-47.217839 - 148 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 01-27-40.988079 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 01-27-58.076911 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 01-28-19.134052 - 148 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 01-28-41.192982 - neregistrirani korisnik -> Korisnik Restoran1 (id: 148) uspiješno odjavljen.
+2015-01-14 01-28-54.290288 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 01-29-57.285269 - 108 -> Ugostitelj  (id: 148) izbrisan.
+2015-01-14 01-30-34.501779 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 01-31-13.910701 - neregistrirani korisnik -> Prijava s nadimkom Restoran1 nije uspjela (Ne postoji ugostitelj s tim identifikatorom).
+2015-01-14 01-31-41.442778 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-14 01-32-24.090184 - neregistrirani korisnik -> Prijava s nadimkom Restoran1 nije uspjela (Ne postoji ugostitelj s tim identifikatorom).
+2015-01-14 01-34-29.992697 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 01-34-41.880918 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 01-34-54.656821 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 01-35-02.363694 - 15 -> Uklanjanje namirnice s identifikatorom 17 nije uspijelo.
+2015-01-14 01-37-28.478790 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-14 01-37-36.415770 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 08-30-17.349304 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-14 08-56-28.894396 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-14 08-57-36.138103 - 149 -> Prijava korisnika Davor (id: 149) uspjela.
+2015-01-14 09-00-07.839782 - neregistrirani korisnik -> Korisnik Davor (id: 149) uspiješno odjavljen.
+2015-01-14 09-01-05.696142 - 151 -> Prijava korisnika tata (id: 151) uspjela.
+2015-01-14 09-02-29.483887 - neregistrirani korisnik -> Korisnik tata (id: 151) uspiješno odjavljen.
+2015-01-14 09-02-46.703658 - 152 -> Prijava korisnika tato (id: 152) uspjela.
+2015-01-14 09-12-36.168504 - neregistrirani korisnik -> Korisnik tato (id: 152) uspiješno odjavljen.
+2015-01-14 09-12-42.035619 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 09-12-46.026900 - 108 -> Ugostitelj  (id: 143) izbrisan.
+2015-01-14 09-18-58.681929 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 09-19-14.901632 - 153 -> Prijava korisnika logo (id: 153) uspjela.
+2015-01-14 09-34-36.054419 - neregistrirani korisnik -> Korisnik logo (id: 153) uspiješno odjavljen.
+2015-01-14 09-34-41.493891 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-14 09-34-47.912844 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-14 09-34-52.100534 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 09-35-25.671209 - 15 -> Kreirana nova nabava (id nabave: 45) od strane ugostitelja. 
+2015-01-14 09-35-25.671757 - 15 -> Namirnica (id: 7, količina: 50) dodana u nabavu (id nabave: 45).
+2015-01-14 09-35-25.672038 - 15 -> Namirnica (id: 17, količina: 50) dodana u nabavu (id nabave: 45).
+2015-01-14 09-35-39.807028 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 09-35-45.854579 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-14 11-16-04.028593 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 11-40-29.219562 - 15 -> Kreirana nova nabava (id nabave: 46) od strane ugostitelja. 
+2015-01-14 11-40-29.220259 - 15 -> Namirnica (id: 23, količina: 9) dodana u nabavu (id nabave: 46).
+2015-01-14 11-40-49.104068 - 15 -> Kreirana nova nabava (id nabave: 47) od strane ugostitelja. 
+2015-01-14 11-40-49.105460 - 15 -> Namirnica (id: 24, količina: 19) dodana u nabavu (id nabave: 47).
+2015-01-14 11-57-44.209964 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 11-57-51.422759 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-14 11-58-11.818871 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-14 12-02-49.103647 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 13-10-43.283041 - neregistrirani korisnik -> Ugostitelj Sombrero (id: 154) registriran.
+2015-01-14 13-10-43.284559 - 154 -> Prijava korisnika sombrero (id: 154) uspjela.
+2015-01-14 13-15-01.367007 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-15-14.029078 - 154 -> Stol 1 uspiješno dodan.
+2015-01-14 13-15-20.090943 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-15-25.685095 - 154 -> Stol 2 uspiješno dodan.
+2015-01-14 13-15-31.523025 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-16-09.041534 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-16-15.389280 - 154 -> Stol 7 uspiješno dodan.
+2015-01-14 13-16-28.062458 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-19-58.876928 - 154 -> Stol 8 uspiješno dodan.
+2015-01-14 13-20-06.601191 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-20-35.574198 - 154 -> Stol 9 uspiješno dodan.
+2015-01-14 13-20-43.565854 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-20-49.656306 - 154 -> Stol 10 uspiješno dodan.
+2015-01-14 13-23-06.875874 - 154 -> Stol 3 uspiješno dodan.
+2015-01-14 13-23-13.630539 - 154 -> Stol 4 uspiješno dodan.
+2015-01-14 13-23-18.697603 - 154 -> Stol 5 uspiješno dodan.
+2015-01-14 13-23-23.797271 - 154 -> Stol 6 uspiješno dodan.
+2015-01-14 13-28-44.454818 - 154 -> Jelo Pržena tortilja s piletinom uspiješno dodano u ponudu jela .
+2015-01-14 13-29-25.743318 - 154 -> Jelo Tacos uspiješno dodano u ponudu jela .
+2015-01-14 13-29-25.744034 - 154 -> Jelo Tacos uspiješno dodano u ponudu jela .
+2015-01-14 13-29-45.289361 - 154 -> Jelo Burritos uspiješno dodano u ponudu jela .
+2015-01-14 13-30-10.878246 - 154 -> Jelo Meksička riža uspiješno dodano u ponudu jela .
+2015-01-14 13-30-28.114253 - 154 -> Jelo Chili grah uspiješno dodano u ponudu jela .
+2015-01-14 13-31-02.947001 - 154 -> Jelo Salata Mexicana uspiješno dodano u ponudu jela .
+2015-01-14 13-31-14.500390 - 154 -> Jelo Salata Sombrero uspiješno dodano u ponudu jela .
+2015-01-14 13-32-04.162671 - 154 -> Jelo Pržena tortilja punjena voćem uspiješno dodano u ponudu jela .
+2015-01-14 13-32-30.210299 - 154 -> Jelo Pohana tortilja sa slatkim sirom uspiješno dodano u ponudu jela .
+2015-01-14 13-33-39.791166 - 154 -> Jelo Meksička kava uspiješno dodano u ponudu jela .
+2015-01-14 13-35-57.116122 - neregistrirani korisnik -> Korisnik sombrero (id: 154) uspiješno odjavljen.
+2015-01-14 13-36-03.633078 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 13-36-06.556236 - 108 -> Ugostitelj  (id: 154) odobren od admina.
+2015-01-14 13-37-00.701570 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 13-37-03.780999 - neregistrirani korisnik -> Prijava s nadimkom šarmer nije uspjela (Ne postoji ugostitelj s tim identifikatorom).
+2015-01-14 13-37-10.424626 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-14 13-40-43.080409 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-14 13-40-49.991748 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-14 13-43-07.470201 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-14 13-43-13.801480 - 129 -> Prijava korisnika nikita (id: 129) uspjela.
+2015-01-14 13-45-19.997908 - neregistrirani korisnik -> Korisnik nikita (id: 129) uspiješno odjavljen.
+2015-01-14 13-45-28.558295 - 154 -> Prijava korisnika sombrero (id: 154) uspjela.
+2015-01-14 13-45-46.836302 - 154 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-49-06.603172 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 13-49-28.605403 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 13-50-11.945585 - neregistrirani korisnik -> Ugostitelj nije uspiješno registriran. Neispravan unos podataka.
+2015-01-14 13-50-25.713963 - neregistrirani korisnik -> Prijava s nadimkom šarmer nije uspjela (Ne postoji ugostitelj s tim identifikatorom).
+2015-01-14 13-52-14.555038 - neregistrirani korisnik -> Ugostitelj Šarmer (id: 157) registriran.
+2015-01-14 13-52-14.556345 - 157 -> Prijava korisnika &#353;armer1 (id: 157) uspjela.
+2015-01-14 13-55-18.828464 - 157 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-55-23.101500 - 157 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-56-08.454545 - 157 -> Stol 1 uspiješno dodan.
+2015-01-14 13-56-17.363282 - 157 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-56-24.336551 - 157 -> Stol 2 uspiješno dodan.
+2015-01-14 13-56-28.603360 - 157 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-56-56.383794 - 157 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-57-11.222842 - 157 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-57-13.893948 - 157 -> Ugostitelj promijenio svoje podatke.
+2015-01-14 13-57-16.230882 - neregistrirani korisnik -> Korisnik &#353;armer1 (id: 157) uspiješno odjavljen.
+2015-01-14 13-57-33.672931 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 13-58-23.721261 - 108 -> Ugostitelj  (id: 73) izbrisan.
+2015-01-14 13-58-26.811142 - 108 -> Ugostitelj  (id: 157) odobren od admina.
+2015-01-14 13-58-44.578593 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 13-59-12.851629 - 157 -> Prijava korisnika &#353;armer1 (id: 157) uspjela.
+2015-01-14 13-59-19.543886 - 157 -> Stol 3 uspiješno dodan.
+2015-01-14 13-59-23.737737 - 157 -> Stol 4 uspiješno dodan.
+2015-01-14 13-59-28.349910 - 157 -> Stol 5 uspiješno dodan.
+2015-01-14 13-59-33.921806 - 157 -> Stol 6 uspiješno dodan.
+2015-01-14 13-59-38.065593 - 157 -> Stol 7 uspiješno dodan.
+2015-01-14 13-59-42.710647 - 157 -> Stol 8 uspiješno dodan.
+2015-01-14 13-59-47.318928 - 157 -> Stol 9 uspiješno dodan.
+2015-01-14 13-59-55.197530 - 157 -> Stol 10 uspiješno dodan.
+2015-01-14 14-01-40.904205 - neregistrirani korisnik -> Korisnik &#353;armer1 (id: 157) uspiješno odjavljen.
+2015-01-14 14-35-13.324682 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 14-35-38.371871 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 14-35-52.672610 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 14-36-49.333461 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 15-15-34.013923 - neregistrirani korisnik -> Ugostitelj Ime (id: 160) registriran.
+2015-01-14 15-15-34.015079 - 160 -> Prijava korisnika korisnicko (id: 160) uspjela.
+2015-01-14 15-17-40.687158 - neregistrirani korisnik -> Korisnik korisnicko (id: 160) uspiješno odjavljen.
+2015-01-14 15-18-04.116988 - neregistrirani korisnik -> Ugostitelj Imerest (id: 161) registriran.
+2015-01-14 15-18-04.118444 - 161 -> Prijava korisnika Korime (id: 161) uspjela.
+2015-01-14 15-18-41.132997 - neregistrirani korisnik -> Korisnik Korime (id: 161) uspiješno odjavljen.
+2015-01-14 15-20-45.495477 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 15-20-53.838661 - 108 -> Ugostitelj  (id: 161) odobren od admina.
+2015-01-14 15-20-55.958384 - 108 -> Ugostitelj  (id: 160) izbrisan.
+2015-01-14 15-21-01.255958 - 108 -> Ugostitelj  (id: 161) izbrisan.
+2015-01-14 15-21-10.788544 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 15-21-47.174549 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 15-22-05.590425 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 15-26-15.536962 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 15-32-31.057837 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 15-32-36.156842 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 15-33-01.043975 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 15-33-09.958969 - neregistrirani korisnik -> Ugostitelj Ime (id: 162) registriran.
+2015-01-14 15-33-09.960011 - 162 -> Prijava korisnika korProba (id: 162) uspjela.
+2015-01-14 15-33-21.457941 - 163 -> Prijava korisnika Gostkorime (id: 163) uspjela.
+2015-01-14 15-35-18.924598 - neregistrirani korisnik -> Korisnik korProba (id: 162) uspiješno odjavljen.
+2015-01-14 15-37-48.638238 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 15-38-07.663400 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 15-38-45.842278 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 15-39-48.517412 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 15-40-35.416125 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 15-40-44.129973 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 15-41-58.123866 - neregistrirani korisnik -> Korisnik Gostkorime (id: 163) uspiješno odjavljen.
+2015-01-14 15-42-13.041727 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 15-45-36.364793 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 15-45-40.069196 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 15-58-39.733465 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 15-58-44.524594 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 16-04-52.907561 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 16-05-01.008085 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 16-05-07.003375 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 16-05-35.714387 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 16-05-52.818351 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 16-06-20.068432 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 16-06-31.330224 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 16-06-38.548599 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-14 16-07-11.055643 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-14 16-07-18.703396 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 16-07-37.887181 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-14 16-07-39.381822 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 16-08-01.523236 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 16-08-05.784310 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 16-08-16.722544 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-14 16-09-58.166733 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 16-10-26.510462 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 16-10-31.873769 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 16-13-51.634176 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 16-14-04.461215 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 16-18-26.661838 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 16-22-59.236505 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 16-23-19.645771 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 16-23-24.569395 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 16-23-33.501604 - 119 -> Prijava korisnika Davidenko (id: 119) uspjela.
+2015-01-14 16-36-24.539818 - neregistrirani korisnik -> Korisnik Davidenko (id: 119) uspiješno odjavljen.
+2015-01-14 16-36-31.525763 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 16-38-16.552743 - 154 -> Prijava korisnika sombrero (id: 154) uspjela.
+2015-01-14 16-38-51.181159 - 164 -> Prijava korisnika /*Korisni&#269;ko# (id: 164) uspjela.
+2015-01-14 16-41-01.784907 - neregistrirani korisnik -> Korisnik /*Korisni&#269;ko# (id: 164) uspiješno odjavljen.
+2015-01-14 16-41-12.687563 - neregistrirani korisnik -> Prijava s nadimkom /*Korisničko# nije uspjela (Neispravna šifra).
+2015-01-14 16-41-23.333503 - 164 -> Prijava korisnika /*Korisni&#269;ko# (id: 164) uspjela.
+2015-01-14 16-41-30.731959 - neregistrirani korisnik -> Korisnik /*Korisni&#269;ko# (id: 164) uspiješno odjavljen.
+2015-01-14 16-41-52.845434 - neregistrirani korisnik -> Ugostitelj nije uspiješno registriran. Neispravan unos podataka.
+2015-01-14 16-42-14.728168 - neregistrirani korisnik -> Ugostitelj hehehe (id: 165) registriran.
+2015-01-14 16-42-14.729350 - 165 -> Prijava korisnika slkjfds (id: 165) uspjela.
+2015-01-14 16-43-24.093230 - neregistrirani korisnik -> Korisnik slkjfds (id: 165) uspiješno odjavljen.
+2015-01-14 16-43-34.031955 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 16-43-42.413644 - 108 -> Ugostitelj  (id: 165) izbrisan.
+2015-01-14 16-43-47.013859 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 16-44-03.370465 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 16-44-13.839951 - neregistrirani korisnik -> Ugostitelj nndiosw (id: 166) registriran.
+2015-01-14 16-44-13.841099 - 166 -> Prijava korisnika daujdbfusjdni (id: 166) uspjela.
+2015-01-14 16-45-52.162283 - neregistrirani korisnik -> Korisnik daujdbfusjdni (id: 166) uspiješno odjavljen.
+2015-01-14 16-46-01.242717 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 17-00-06.025614 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 17-07-11.740370 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 17-08-24.046397 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 17-08-59.283866 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 17-09-04.210805 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 17-09-19.503302 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 17-12-57.063469 - 167 -> Prijava korisnika /*Korisni&#269;ko#1 (id: 167) uspjela.
+2015-01-14 17-14-20.287981 - neregistrirani korisnik -> Korisnik /*Korisni&#269;ko#1 (id: 167) uspiješno odjavljen.
+2015-01-14 17-14-48.629070 - 168 -> Prijava korisnika  (id: 168) uspjela.
+2015-01-14 17-17-49.485897 - neregistrirani korisnik -> Korisnik  (id: 168) uspiješno odjavljen.
+2015-01-14 17-18-00.532960 - neregistrirani korisnik -> Prijava s nadimkom /*Korisničko# nije uspjela (Neispravna šifra).
+2015-01-14 17-18-09.339833 - 164 -> Prijava korisnika /*Korisni&#269;ko# (id: 164) uspjela.
+2015-01-14 17-31-24.426234 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-14 17-31-41.346625 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 17-36-38.873966 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-14 17-38-01.194583 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-14 17-38-05.594727 - neregistrirani korisnik -> Prijava s nadimkom vsl,v nije uspjela (Korisničko ime ne postoji).
+2015-01-14 17-39-01.716214 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-14 17-40-28.179385 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
+2015-01-14 17-40-53.283974 - neregistrirani korisnik -> Korisnik Igor (id: 77) uspiješno odjavljen.
+2015-01-14 17-51-50.188538 - neregistrirani korisnik -> Korisnik /*Korisni&#269;ko# (id: 164) uspiješno odjavljen.
+2015-01-14 17-52-05.637623 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 17-52-37.678014 - 15 -> Uklanjanje namirnice s identifikatorom 30 nije uspijelo.
+2015-01-14 17-55-11.963146 - 15 -> Uklanjanje namirnice s identifikatorom 30 nije uspijelo.
+2015-01-14 17-56-13.780150 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 17-56-26.826122 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 17-59-44.727155 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-14 18-00-16.822370 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-14 18-00-19.834280 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 18-00-45.919672 - 15 -> Dodavanje namirnice 10000000 uspijelo.
+2015-01-14 18-00-54.749387 - 15 -> Dodavanje namirnice 444 uspijelo.
+2015-01-14 18-01-09.799422 - 15 -> Dodavanje namirnice 5455 uspijelo.
+2015-01-14 18-01-17.838905 - 15 -> Uklanjanje namirnice s identifikatorom 33 uspijelo.
+2015-01-14 18-01-20.141558 - 15 -> Uklanjanje namirnice s identifikatorom 32 uspijelo.
+2015-01-14 18-01-25.395065 - 15 -> Dodavanje namirnice 7485 uspijelo.
+2015-01-14 18-01-29.193073 - 129 -> Prijava korisnika nikita (id: 129) uspjela.
+2015-01-14 18-01-39.334748 - 15 -> Dodavanje namirnice 555 uspijelo.
+2015-01-14 18-02-01.604362 - 15 -> Dodavanje namirnice 555 uspijelo.
+2015-01-14 18-02-09.667480 - 15 -> Dodavanje namirnice 555 uspijelo.
+2015-01-14 18-02-20.529715 - 15 -> Dodavanje namirnice 444 uspijelo.
+2015-01-14 18-03-32.578346 - neregistrirani korisnik -> Korisnik nikita (id: 129) uspiješno odjavljen.
+2015-01-14 18-03-38.438915 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-14 18-04-48.718849 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-14 18-04-56.096991 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-14 18-05-48.034204 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-14 18-05-53.517673 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-14 18-12-26.168025 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-14 22-59-05.028928 - 127 -> Prijava korisnika Lovro1 (id: 127) uspjela.
+2015-01-14 23-00-44.967555 - neregistrirani korisnik -> Korisnik Lovro1 (id: 127) uspiješno odjavljen.
+2015-01-14 23-01-53.246045 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-15 01-49-23.589745 - 102 -> Prijava korisnika inspekcija (id: 102) uspjela.
+2015-01-15 01-57-44.847965 - neregistrirani korisnik -> Korisnik inspekcija (id: 102) uspiješno odjavljen.
+2015-01-15 01-57-53.670151 - 71 -> Prijava korisnika mate (id: 71) uspjela.
+2015-01-15 01-59-06.193387 - neregistrirani korisnik -> Korisnik mate (id: 71) uspiješno odjavljen.
+2015-01-15 09-19-55.467287 - 108 -> Prijava korisnika admin (id: 108) uspjela.
+2015-01-15 09-20-05.620403 - 108 -> Ugostitelj  (id: 166) izbrisan.
+2015-01-15 09-20-07.125129 - 108 -> Ugostitelj  (id: 162) izbrisan.
+2015-01-15 09-20-20.720865 - 108 -> Ugostitelj  (id: 140) izbrisan.
+2015-01-15 09-31-08.092878 - neregistrirani korisnik -> Korisnik admin (id: 108) uspiješno odjavljen.
+2015-01-15 09-31-14.904720 - 0 -> Prijava korisnika dobavljac (id: 0) uspjela.
+2015-01-15 09-53-21.699959 - neregistrirani korisnik -> Korisnik dobavljac (id: 0) uspiješno odjavljen.
+2015-01-15 09-53-26.951657 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-15 09-53-44.164021 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-15 09-53-47.564129 - 15 -> Prijava korisnika 15 (id: 15) uspjela.
+2015-01-15 09-54-02.565246 - 75 -> Prijava korisnika konobar (id: 75) uspjela.
+2015-01-15 09-54-10.073539 - neregistrirani korisnik -> Korisnik konobar (id: 75) uspiješno odjavljen.
+2015-01-15 10-13-50.225878 - 15 -> Dodavanje namirnice 455 uspijelo.
+2015-01-15 10-14-24.389273 - neregistrirani korisnik -> Korisnik 15 (id: 15) uspiješno odjavljen.
+2015-01-15 10-14-28.443222 - 77 -> Prijava korisnika Igor (id: 77) uspjela.
