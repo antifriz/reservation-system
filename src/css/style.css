@@ -1,0 +1,352 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
+@import url(/css/jquery.timepicker.css);
+@import url(/css/datepicker3.css);
+@import url(/css/bootstrap-switch.min.css);
+
+/*
+1) OSNOVNI SETUP
+*/
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400
+}
+
+html,
+body{
+    height:100%;
+
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+textarea {
+    resize: vertical;
+
+}
+
+.horizontal-line {
+    float:left;
+    margin: 10px 0 20px 0;
+    border-bottom: 1px solid #e0e0e0;
+    width: 100%;
+}
+
+.lista-blok {
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+    font-size: 20px;
+    line-height: 34px;
+}
+
+.lista-blok:nth-child(odd) {
+    background: #f0f0f0;
+}
+
+.lista-blok:nth-child(even) {
+    background: #fff;
+}
+
+.lista-blok-holder {
+    border-bottom: 1px solid #ddd;
+}
+
+.lista-blok-header {
+    width: 100%;
+    background-color: #760103;
+    padding: 10px 10px;
+    color: #ffffff;
+    font-size: 18px;
+    vertical-align: middle;
+
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.lista-blok-clickable {
+    -webkit-transition: background-color 300ms;
+    -moz-transition: background-color 300ms;
+    -o-transition: background-color 300ms;
+    transition: background-color 300ms;
+}
+
+.lista-blok-clickable:nth-child(odd):hover {
+    cursor: pointer;
+    background: #ddd;
+}
+
+.lista-blok-clickable:nth-child(even):hover {
+    cursor: pointer;
+    background: #ddd;
+}
+
+.editable-span {
+    border-bottom: 1px dotted #333;
+    cursor: pointer;
+}
+
+.rezervacija > div {
+    padding: 40px 0;
+}
+
+.rezervacija > .raspored-stolova, .rezervacija > .rezerviraj {
+    background: #e0e0e0;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+.glyphicon {
+    margin-right: 5px;
+}
+
+.ugostitelj-profil #pogled-raspored-stolova .btn {
+    font-size: 13px;
+}
+
+.pogled-kritika .reviews {
+    color: #555;
+    font-weight: bold;
+    margin: 10px auto 20px;
+}
+
+.pogled-kritika .media .media-object {
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pogled-kritika .media-body {
+    position: relative;
+}
+
+.pogled-kritika .media-date {
+    position: absolute;
+    right: 25px;
+    top: 25px;
+}
+
+.pogled-kritika .media-date li {
+    padding: 0;
+}
+
+.pogled-kritika .media-date li:first-child:before {
+    content: '';
+}
+
+.pogled-kritika .media-date li:before {
+    content: '.';
+    margin-left: -2px;
+    margin-right: 2px;
+}
+
+.pogled-kritika .media-comment {
+    margin-bottom: 20px;
+}
+
+.pogled-kritika .form-group {
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+
+
+.pogled-kritika .tab-content {
+    padding: 50px 15px;
+    border: 1px solid #ddd;
+    border-top: 0;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.pogled-kritika .rating .glyphicon {
+    font-size: 22px;
+}
+
+.pogled-kritika .media-object .rating .glyphicon {
+    font-size: 16px;
+}
+
+.pogled-kritika .rating-num {
+    margin-top: 0;
+    font-size: 54px;
+}
+
+.pogled-kritika .media-sub-header{
+    padding-left: 24px;
+}
+
+.pogled-ugostitelj .progress,.pogled-kritika .progress {
+    margin-bottom: 5px;
+}
+
+.pogled-ugostitelj .progress-bar {
+    text-align: left;
+}
+
+.pogled-ugostitelj .rating .glyphicon {
+    font-size: 22px;
+}
+
+.pogled-ugostitelj .rating-num {
+    margin-top: 0;
+    font-size: 54px;
+}
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 0 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+    color: #ccc;
+    content: '\201C';
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+blockquote p {
+    font-style: italic;
+    display: inline;
+}
+
+
+.btn-no-hover-success:hover{
+    cursor:default;
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+.btn-no-hover-danger:hover{
+    cursor:default;
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.ui-widget-content {
+    color: #222222;
+    margin-top: 4px;
+}
+
+.ui-slider .ui-slider-handle {
+    position: absolute;
+    z-index: 2;
+    width: 5.2em;
+    height: 2.2em;
+    cursor: default;
+    margin: 0 -40px auto !important;
+    text-align: center;
+    line-height: 30px;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.ui-slider .ui-slider-handle .glyphicon {
+    color: #FFFFFF;
+    margin: 0 3px;
+    font-size: 11px;
+    opacity: 0.5;
+}
+
+.ui-corner-all {
+    border-radius: 20px;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+    top: -.9em;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default {
+    border: 1px solid #f9f9f9;
+    background: #3498db;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+    margin-left: -0.5em;
+}
+
+.ui-slider .ui-slider-handle {
+    cursor: pointer;
+}
+
+.ui-slider a,
+.ui-slider a:focus {
+    cursor: pointer;
+    outline: none;
+}
+
+.ui-slider-holder {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #bdc3c7;
+    padding: 0 35px;
+}
+
+
+#pogled-pretrage{
+    min-height: 100%;
+}
+
+.wrapper-16-9 {
+    width: 100%;
+    /* whatever width you want */
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+    cursor:pointer;
+}
+.wrapper-16-9:after {
+    padding-top: 56.25%;
+    /* 16:9 ratio */
+    display: block;
+    content: '';
+}
+.wrapper-16-9 >.main {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    /* fill parent */
+
+    background: no-repeat center;
+    background-size: cover;
+    /* let's see it! */
+    color: white;
+    overflow: hidden;
+}
+.wrapper-16-9>.main>.main-description-head {
+
+    width: 100%;
+    padding: 10px 15px;
+    background: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    margin-top: 146px;
+    min-height: 54px;
+
+}
+.wrapper-16-9>.main>.main-description-body{
+
+    width: 100%;
+    padding: 10px;
+    background: rgba(0,0,0,0.6);
+    text-align: center;
+    text-overflow: ellipsis;
+
+}
+.wrapper-16-9>.main>.main-description-head>span{
+    line-height: 34px;
+    font-size: 20px;
+}
+.wrapper-description{
+    background: #fff;
+}
